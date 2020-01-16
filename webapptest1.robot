@@ -16,4 +16,4 @@ Search Hotel Test
 
 Search flight Test
      [Tags]           flightsearch
-	Search flight on date		${from}   {to}
+	Search flight on date		${from}   ${to}
