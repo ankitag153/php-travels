@@ -20,3 +20,8 @@ ${BookNowButtonLocator}     class=btn btn-primary btn-sm btn-block
 ${FirstNameLocator}         id=first_name
 ${LastNameLocator}         id=last_name
 ${EmailLocator}            id=email
+${LocationFromLocator}     id=s2id_location_from
+${LocationtoLocator}     id=s2id_location_to
+${FlightStartDateLocator}   id=FlightsDateStart
+
+
