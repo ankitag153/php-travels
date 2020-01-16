@@ -14,6 +14,6 @@ Search Hotel Test
 	[Tags]           hotelsearch	
 	Search Hotel on date		${location}
 
-Search Hotel Test
-     [Tags]           hotelsearch2
-	Search Hotel with zero adults		${location}
+Search flight Test
+     [Tags]           flightsearch
+	Search flight on date		${from}   {to}
